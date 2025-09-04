@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Abrar!
+##	👋 Hi, I'm Abrar!
 👨‍🎓	Computer Science student at the University of Central Florida, Orlando<br/>
 💭	Passionate about building efficient software, open-source contributions, and continous learning<br/>
 👨‍💻	Aspiring Software Engineer / Data Scientist<br/>
